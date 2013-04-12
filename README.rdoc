@@ -1,5 +1,7 @@
 == Demo app
 
 Heroku URLs:
+
 http://vast-chamber-8192.herokuapp.com/users
+
 http://vast-chamber-8192.herokuapp.com/microposts
